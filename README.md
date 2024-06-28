@@ -21,5 +21,5 @@ Features a heading "Contact Us" styled in green with a font size of 20pt.
 Provides contact details for the registered and corporate offices in a bulleted list.
 
 Technologies Used
-HTML
+HTML and
 CSS
